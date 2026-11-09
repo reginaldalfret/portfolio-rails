@@ -1,0 +1,11 @@
+source "https://rubygems.org"
+
+gem "railties", "8.1.4.1"
+gem "actionpack", "8.1.4.1"
+gem "actionview", "8.1.4.1"
+gem "activesupport", "8.1.4.1"
+gem "activemodel", "8.1.4.1"
+gem "webrick", "1.9.2"
+gem "rackup", "2.3.1"
+gem "nokogiri", "1.19.7"
+gem "tzinfo-data", "1.2026.6"

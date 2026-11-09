@@ -1,0 +1,12 @@
+/.bundle/
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/db/*.sqlite3-*
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+/node_modules/
+.env
+.env*.local
+.DS_Store
